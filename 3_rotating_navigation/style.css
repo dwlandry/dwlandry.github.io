@@ -47,8 +47,8 @@ body{
 }
 .circle button{
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 60%;
+    left: 40%;
     height: 100px;
     background: transparent;
     border: 0;
